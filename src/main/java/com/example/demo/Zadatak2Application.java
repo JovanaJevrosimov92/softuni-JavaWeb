@@ -9,5 +9,5 @@ public class Zadatak2Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Zadatak2Application.class, args);
 	}
-
+	//komentar je dodat
 }
